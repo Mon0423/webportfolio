@@ -1,0 +1,41 @@
+nav a {
+font-family: Caveat;
+font-size: 25px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+text-decoration-color: black;
+color: black;
+}
+
+#landing {
+	background-color: sandybrown;
+  color: white;
+}
+
+#tools {
+	style="background-color: rgba (210, 180, 140, 0.3) "
+}
+
+#landing {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+nav	{
+	color: black;
+}
+
+body {
+    background-image: url('./images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Caveat;
+}
+
